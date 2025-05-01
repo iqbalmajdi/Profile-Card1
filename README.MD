@@ -17,7 +17,7 @@ This project is a **simple and elegant profile card** designed using HTML and CS
 
 ## 🌐 Live Demo
 
-You can check out the live profile card by clicking [here](https://github.com/iqbalmajdi/Profile-Card1).
+You can check out the live profile card by clicking [here](https://iqbalmajdi.github.io/Profile-Card1/).
 
 ## 🌟 How to Use
 
